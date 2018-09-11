@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "*"
+gunicorn = "*"
+"psycopg2" = "*"
+django-heroku = "*"
+bcrypt = "*"
+"argon2-cffi" = "*"
 
 [dev-packages]
 
